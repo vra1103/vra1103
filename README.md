@@ -1,5 +1,5 @@
 ## About Me
-I’ve spent most of my career sitting between research, data, and operations — usually where things are a bit sktechy and nobody quite owns the problem. That’s where I tend to do my best work.
+I’ve spent most of my career sitting between research, data, and operations; usually where things are a bit sktechy and nobody quite owns the problem. That’s where I tend to do my best work.
 
 Over the last 15+ years, I’ve helped build and scale research and analytics teams at Gartner, McKinsey & Company, and Toluna. Some years I was deep in the work, shaping products and platforms. Other years I was leading global teams, managing budgets, and making sure the machine actually ran. Most of the time, it was a mix of both.
 
