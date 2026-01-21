@@ -28,3 +28,4 @@ scale in high-stake environments.
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/vyapak-arora-a003b217/
+- vyapak.arora@gmail.com
