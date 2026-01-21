@@ -1,9 +1,4 @@
 ## About Me
-That makes total sense. To move away from the "AI-generated" feel, you need to soften the corporate jargon and focus more on the problem-solving aspect of your career. It should sound like you are speaking to a peer about what you actually do and why it matters.
-
-Here is a more human, narrative-driven version of your profile:
-
-About Me
 I am a Research and Operations leader who lives in the space where data meets strategy. Over the past 15 years at Gartner, McKinsey, and Toluna, I’ve focused on one core challenge: how do we take complex, fragmented research and make it faster, smarter, and more scalable? 
 
 
